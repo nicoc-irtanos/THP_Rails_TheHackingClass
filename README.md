@@ -3,7 +3,11 @@
 ##Prerequisites
 
 Ruby version : 2.5.1
+
 Run ```bundle install```
+
+Run ```rails db:migrate``` to get all necessary updates
+
 Run ```rails db:seeds``` to get default database
 
 ##Informations
